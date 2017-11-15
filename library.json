@@ -1,0 +1,17 @@
+{
+    "name": "SparkFun_Serial_LCD",
+    "version": "1.0.0",
+    "keywords": "Serial_LCD",
+    "description": "SparkFun serLCD module（串口通讯的LCD屏，默认使用serial）驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/SparkFun_Serial_LCD.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
